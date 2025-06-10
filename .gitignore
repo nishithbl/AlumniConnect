@@ -1,0 +1,8 @@
+node_modules
+dbms.txt
+generate.txt
+resp.json
+routes.md
+server/index.js
+views
+.env
